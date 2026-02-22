@@ -1,11 +1,11 @@
 function Home() {
   return (
     <body>
-      <h1 class="titulo">Oi meu amor!</h1>
-      <h2>Esta é uma mensagem especial para você!</h2>
+      <h1 class="titulo">Se você está vendo isso, tenho um recado pra você!</h1>
+      <h2>Este site ainda está em construção</h2>
       <p>
-        Ainda tô aprendendo como programar em javascript, mas até o final do ano
-        vou ter um projeto pra deixar a gente rico!
+        Em breve traremos novidades, mas por enquanto agradecemos pela sua
+        paciência e esperamos que você goste do que está por vir!
       </p>
     </body>
   );
