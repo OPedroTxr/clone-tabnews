@@ -1,11 +1,11 @@
 function Home() {
   return (
     <body>
-      <h1 class="titulo">Se você está vendo isso, tenho um recado pra você!</h1>
-      <h2>Este site ainda está em construção</h2>
+      <h1 class="titulo">Gomes é um bom amigo.</h1>
+      <h2>Ele é de Murrinha City</h2>
       <p>
-        Em breve traremos novidades, mas por enquanto agradecemos pela sua
-        paciência e esperamos que você goste do que está por vir!
+        O endereço dele é esse: Rua do Gomes, 123, Murrinha City, MG. Ele é um
+        cara legal e sempre me ajuda quando preciso.
       </p>
     </body>
   );
